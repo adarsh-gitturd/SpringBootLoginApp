@@ -13,8 +13,8 @@ public class LoginController {
         return "HELLO HELLO";
     }
 
-    @RequestMapping("login")
-    public String lo(){
+    @RequestMapping("logina")
+    public String logina(){
         return "logina";
     }
 }

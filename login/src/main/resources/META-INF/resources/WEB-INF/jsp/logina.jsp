@@ -1,9 +1,9 @@
 <html>
-<head>
-    <title> Login Page </title>
-</head>
+    <head>
+        <title> Login Page </title>
+    </head>
 
-<body>
-    HI HELLO JSP
-</body>
+    <body>
+        HI HELLO JSP
+    </body>
 </html>
